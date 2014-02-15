@@ -1,0 +1,153 @@
+
+robogenesis.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tutorial
+  rotate: false
+  xy: 1, 221
+  size: 915, 800
+  orig: 915, 800
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 1, 19
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+gears
+  rotate: false
+  xy: 403, 19
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+partbox
+  rotate: false
+  xy: 805, 109
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 918, 921
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 918, 819
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+junk-pile-1
+  rotate: false
+  xy: 918, 717
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+treds
+  rotate: false
+  xy: 918, 615
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+background-stripe
+  rotate: false
+  xy: 805, 59
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 1, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+cream-haze
+  rotate: false
+  xy: 918, 597
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+lime
+  rotate: false
+  xy: 805, 41
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 855, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+
+robogenesis2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bpDotsDiamond
+  rotate: false
+  xy: 1, 503
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+endscene
+  rotate: false
+  xy: 1, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+radio
+  rotate: false
+  xy: 515, 515
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+robo
+  rotate: false
+  xy: 503, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+robogenesis3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bpDotsMinus
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+robogenesis4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bpDotsVertical
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
